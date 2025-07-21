@@ -68,7 +68,11 @@ This demo solution leverages the following Microsoft technologies:
 
 ## 📷 Screenshots
 
-*(Add screenshots here if available—app home screen, voice entry, AI output in D365, etc.)*
+<p align="center">
+  <img src="images/screen1.png" alt="Screen 1" width="30%" />
+  <img src="images/screen2.png" alt="Screen 2" width="30%" />
+  <img src="images/screen3.png" alt="Screen 3" width="30%" />
+</p>
 
 ---
 
@@ -85,32 +89,28 @@ This demo solution leverages the following Microsoft technologies:
 
 ### Installation Steps
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-org/rm-copilot.git
+1. Import the solution packages in the given order to your dataverse environment.
+2. Publish all the apps and flows in the solution
 
-Import the Power App and Power Automate flows.
+### 🧠 Notes
 
-Configure the AI Builder model with your environment and training data if necessary.
+- All AI interpretations are **probabilistic** and may require RM verification.
+- **Call Report** schema must be available in the Dynamics environment.
+- Voice dictation depends on **device/browser compatibility**.
+- **AI Builder quota** and **OpenAI usage** may apply depending on your licensing model.
 
-Ensure the app and flows are connected to your D365 instance and Dataverse tables.
+---
 
-🧠 Notes
-All AI interpretations are probabilistic and may require RM verification.
+### ⚠️⚠️⚠️ IMPORTANT DISCLAIMER ⚠️⚠️⚠️
 
-Call Report schema must be available in the Dynamics environment.
+> **This solution is a DEMO-GRADE prototype built for concept demonstration purposes ONLY. It is NOT intended for use in a production environment.**
 
-Voice dictation depends on device/browser compatibility.
+> ⚠️ **Use at your own risk.** This app may contain incomplete features, potential security flaws, or generate inaccurate CRM entries.
 
-AI Builder quota and OpenAI usage may apply depending on licensing.
+> **The creators of this repository do not bear any responsibility** for any direct or indirect damage, data loss, or business impact caused by deploying or using this solution in a live environment.
 
-⚠️⚠️⚠️ IMPORTANT DISCLAIMER ⚠️⚠️⚠️
-This solution is a DEMO-GRADE prototype built for concept demonstration purposes ONLY. It is NOT intended for use in a production environment.
+---
 
-⚠️ Use at your own risk. This app may contain incomplete features, potential security flaws, or generate inaccurate CRM entries.
+### 📬 Contact
 
-The creators of this repository do not bear any responsibility for any direct or indirect damage, data loss, or business impact caused by deploying or using this solution in a live environment.
-
-📬 Contact
-For feedback, feature suggestions, or collaboration, feel free to open an issue or reach out via [your contact details].
-
+For feedback, feature suggestions, or collaboration, feel free to open an issue or reach out via **[your contact details]**.
