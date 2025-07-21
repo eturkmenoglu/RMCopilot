@@ -1,3 +1,14 @@
+
+### ⚠️⚠️⚠️ IMPORTANT DISCLAIMER ⚠️⚠️⚠️
+
+> **This solution is a DEMO-GRADE prototype built for concept demonstration purposes ONLY. It is NOT intended for use in a production environment.**
+
+> ⚠️ **Use at your own risk.** This app may contain incomplete features, potential security flaws, or generate inaccurate CRM entries.
+
+> **The creators of this repository do not bear any responsibility** for any direct or indirect damage, data loss, or business impact caused by deploying or using this solution in a live environment.
+
+---
+
 # RM Copilot – AI-Powered Call Report Assistant for Relationship Managers
 
 **RM Copilot** is a demonstration-grade Power App designed to revolutionize how Relationship Managers (RMs) in retail and corporate banking log customer interactions. By combining the power of **GPT-4o**, **AI Builder**, **Power Automate**, and **Dynamics 365**, RM Copilot enables fast, voice-driven CRM updates—saving time and improving data quality.
@@ -98,16 +109,6 @@ This demo solution leverages the following Microsoft technologies:
 - **Call Report** schema must be available in the Dynamics environment.
 - Voice dictation depends on **device/browser compatibility**.
 - **AI Builder quota** and **OpenAI usage** may apply depending on your licensing model.
-
----
-
-### ⚠️⚠️⚠️ IMPORTANT DISCLAIMER ⚠️⚠️⚠️
-
-> **This solution is a DEMO-GRADE prototype built for concept demonstration purposes ONLY. It is NOT intended for use in a production environment.**
-
-> ⚠️ **Use at your own risk.** This app may contain incomplete features, potential security flaws, or generate inaccurate CRM entries.
-
-> **The creators of this repository do not bear any responsibility** for any direct or indirect damage, data loss, or business impact caused by deploying or using this solution in a live environment.
 
 ---
 
