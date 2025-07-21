@@ -106,7 +106,6 @@ This demo solution leverages the following Microsoft technologies:
 ### 🧠 Notes
 
 - All AI interpretations are **probabilistic** and may require RM verification.
-- **Call Report** schema must be available in the Dynamics environment.
 - Voice dictation depends on **device/browser compatibility**.
 - **AI Builder quota** and **OpenAI usage** may apply depending on your licensing model.
 
