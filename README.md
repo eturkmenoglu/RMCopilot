@@ -113,4 +113,4 @@ This demo solution leverages the following Microsoft technologies:
 
 ### 📬 Contact
 
-For feedback, feature suggestions, or collaboration, feel free to open an issue or reach out via **[your contact details]**.
+For feedback, feature suggestions, or collaboration, feel free to open an issue or reach out via email.
